@@ -1,3 +1,8 @@
+<div align="center">
+  <h3 align="center">The project I am working on:</h1>
+  <img align="center" src="https://media.discordapp.net/attachments/1050077355693060168/1204164593807786085/logo.png?ex=65d3bcab&is=65c147ab&hm=66d5b639225e0fadd401d8e2265625e67c9a0279725a845253e83fd6e9f183f8&=&format=webp&quality=lossless&width=450&height=375"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
